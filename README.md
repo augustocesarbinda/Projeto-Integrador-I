@@ -6,3 +6,5 @@ APLICAÇÃO WEB PARA EMISSÃO DE PLANO DE AULA, CONFORME BNCC (BASE NACIONAL CUR
 
 
 Primeira alteração realizada no arquivo READ.ME :eagle:
+
+Este arquivo traz as informações básicas do Projeto.
