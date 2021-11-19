@@ -16,10 +16,18 @@
             </div>
         </header>
 
+        <nav class="navbar navbar-expand-lg navbar-light bg-light">
+            <a class="navbar-brand" href="#">
+                <img src="img/coruja_peq.png">
+            </a>
+        </nav>
+
         <main>
             <button type="button" class="btn btn-primary">Primary</button>
 
         </main>
+
+
 
     </body>
 </html>
