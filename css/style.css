@@ -1,4 +1,9 @@
 
 .navbar {
     background-color: orange;
+    font-weight: bold;
+}
+
+.margin {
+    padding-left: 6rem;
 }
