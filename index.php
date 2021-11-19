@@ -32,7 +32,7 @@
                             <a class="nav-link" href="sobre.html">Sobre nós</a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link" href="#">Instruções</a>
+                            <a class="nav-link" href="instru.html">Instruções</a>
                         </li>
                     </ul>
                 </div>
