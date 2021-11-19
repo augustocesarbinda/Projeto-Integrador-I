@@ -38,6 +38,12 @@
                 </div>
             </div>
         </nav>
+
+        <div class="container">
+
+            <h3 class="margin">Selecione a seguir cada opção para gerar o seu Plano de Aula</h3>
+
+        </div>
         
 
         <main>
