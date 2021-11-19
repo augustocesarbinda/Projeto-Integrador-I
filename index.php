@@ -40,11 +40,36 @@
         </nav>
 
         <div class="container">
-
-            <h3 class="margin">Selecione a seguir cada opção para gerar o seu Plano de Aula</h3>
-
+            <h4 class="margin">Selecione cada opção a seguir para gerar o seu Plano de Aula</h4>
         </div>
         
+        <div class="container card">
+            <h6 class="margin">PROFESSOR</h6>
+        </div>
+        <div class="container card">
+            <h6 class="margin">COMPONENTE CURRICULAR</h6>
+        </div>
+        <div class="container card">
+            <h6 class="margin">ANO OU SÉRIE</h6>
+        </div>
+        <div class="container card">
+            <h6 class="margin">UNIDADE TEMÁTICA</h6>
+        </div>
+        <div class="container card">
+            <h6 class="margin">OBJETO DO CONHECIMENTO</h6>
+        </div>
+        <div class="container card">
+            <h6 class="margin">HABILIDADE</h6>
+        </div>
+        <div class="container card">
+            <h6 class="margin">ATIVIDADES A SEREM TRABALHADAS</h6>
+        </div>
+        <div class="container card">
+            <h6 class="margin">RECURSOS</h6>
+        </div>
+        <div class="container card">
+            <h6 class="margin">TEMPORALIDADE</h6>
+        </div>
 
         <main>
            
