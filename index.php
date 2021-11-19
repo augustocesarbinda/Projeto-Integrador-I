@@ -29,7 +29,7 @@
                             <a class="nav-link" href="#">Home</a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link" href="#">Sobre nós</a>
+                            <a class="nav-link" href="sobre.html">Sobre nós</a>
                         </li>
                         <li class="nav-item">
                             <a class="nav-link" href="#">Instruções</a>
